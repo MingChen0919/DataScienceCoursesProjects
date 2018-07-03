@@ -1,5 +1,5 @@
 # Week one: Entity Relationship Diagrams
 
-![](ERD-symbols.png) 
+![](images/ERD-symbols.png) 
 
 # 
